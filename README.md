@@ -1,6 +1,6 @@
 # buscador_gif
 
-![img1](https://imgur.com/gallery/SvTaefb.gif)
+![img1](https://i.imgur.com/Ca2oJjk.jpeg)
 
 
 
